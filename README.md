@@ -3,13 +3,6 @@
 A modern, responsive landing page for a fictional IELTS institute built using **React.js** and **Tailwind CSS**. This project was completed as part of a Full Stack Development internship assignment.
 
 ---
-
-## Live Demo
-
-*Currently not deployed. You can run it locally following the instructions below.*
-
----
-
 ## Features
 
 - **Responsive Design** – Works seamlessly on mobile, tablet, and desktop.  
@@ -23,29 +16,15 @@ A modern, responsive landing page for a fictional IELTS institute built using **
 
 ## Installation (Windows + npm)
 
-1. Clone this repository:
+Clone this repository:
 
 ```bash
 git clone https://github.com/pranavmakesitcool24k/ielts-landing-page.git
-Navigate to the project directory:
-
-bash
-Copy code
 cd ielts-landing-page
-Install dependencies:
-
-bash
-Copy code
 npm install
-Start the development server:
-
-bash
-Copy code
 npm run dev
-Open http://localhost:5173/ in your browser to view the page.
+Open http://localhost:5173/
+ in your browser to view the page.
 
-Author
+Author:
 Pranav Pardeshi – GitHub Profile
-
-markdown
-Copy code
