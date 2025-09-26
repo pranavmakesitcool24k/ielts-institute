@@ -28,3 +28,10 @@ Open http://localhost:5173/
 ```
 ## Author
 Pranav Pardeshi 
+
+### Screenshots
+
+![Hero Section](screenshots/one.png)
+![Features Section](screenshots/two.png)
+![Testimonials Section](screenshots/three.png)
+![Footer Section](screenshots/four.png)
