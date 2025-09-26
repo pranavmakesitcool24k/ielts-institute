@@ -19,8 +19,8 @@ A modern, responsive landing page for a fictional IELTS institute built using **
 Clone this repository:
 
 ```bash
-git clone https://github.com/pranavmakesitcool24k/ielts-landing-page.git
-cd ielts-landing-page
+git clone https://github.com/pranavmakesitcool24k/ielts-institute.git
+cd ielts-institute
 npm install
 npm run dev
 Open http://localhost:5173/
